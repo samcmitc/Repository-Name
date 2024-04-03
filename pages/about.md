@@ -12,6 +12,17 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
+# Title 
+
+This is a paragraph
+
+1. one
+2. two
+3. three
+
+**bold**
+*italic* 
+
 ## About the Collection
 
 This is a demo collection to practice using CB-HG. I hope to learn how: 
